@@ -25,7 +25,7 @@ Acreditamos que a melhor forma de aprender é brincando! Com as páginas para co
 
 O ebook está disponível em formato PDF, pronto para ser baixado e impresso! Perfeito para atividades em casa, na escola ou em qualquer lugar onde a curiosidade cósmica surgir.
 
-[Link para o Ebook PDF](https://github.com/rivonaldofilho/Ebook-Colorindo-o-Cosmos/tree/main)]
+[Leia aqui]([nome-do-arquivo.extensao](https://github.com/rivonaldofilho/Ebook-Colorindo-o-Cosmos/blob/main/Ebook%20-%20Colorindo%20o%20Cosmos.pdf))
 
 
 👨‍💻 Autor
