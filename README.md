@@ -27,6 +27,8 @@ O ebook está disponível em formato PDF, pronto para ser baixado e impresso! Pe
 
 [Leia Aqui](https://github.com/rivonaldofilho/Ebook-Colorindo-o-Cosmos/blob/7dc5a1ec60fd899822b2191706e0d3ce4902a0a3/Ebook%20-%20Colorindo%20o%20Cosmos.pdf)
 
+[Arquivo Power Point](https://github.com/rivonaldofilho/Ebook-Colorindo-o-Cosmos/blob/8e3b7b3167c72d9134cafcacc29f975e37967ea8/Ebook%20-%20prototipo.pptx)
+
 
 👨‍💻 Autor
 
